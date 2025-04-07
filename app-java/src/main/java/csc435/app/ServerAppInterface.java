@@ -11,7 +11,6 @@ public class ServerAppInterface {
     }
 
     public void readCommands() {
-        // TO-DO implement the read commands method
         Scanner sc = new Scanner(System.in);
         String command;
         
