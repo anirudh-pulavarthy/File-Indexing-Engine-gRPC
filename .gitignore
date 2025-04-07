@@ -1,0 +1,4 @@
+app-java/target/
+app-java/.idea/
+app-java/.gradle/
+app-java/build/
